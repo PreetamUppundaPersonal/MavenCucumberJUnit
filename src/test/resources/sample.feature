@@ -5,3 +5,8 @@ Feature: Sample feature file
     Given Open browser
     When test
     Then result
+
+  Scenario: Sample selenium test 2
+    Given Open browser
+    When check driver
+    Then result

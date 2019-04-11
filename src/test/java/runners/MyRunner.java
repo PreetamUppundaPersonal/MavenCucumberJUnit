@@ -12,7 +12,7 @@ import cucumber.api.junit.Cucumber;
                 "pretty"},
         tags = {"@sample","~@ignore"},
         features = {"src/test/resources"},
-        glue = {"bindings"}
+        glue = {"com/simpleProject/Maven/Hooks", "com/simpleProject/Maven/bindings"}
 )
 
 public class MyRunner {
