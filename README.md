@@ -1,3 +1,3 @@
 # MavenCucumberJUnit
 
-Simple automation test project with maven, cucumber, sleenium and java 
+Simple automation test project with maven, cucumber, selenium and java 
